@@ -7,3 +7,6 @@
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+https://gqtesumkqqwubqiywzje.supabase.co
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdxdGVzdW1rcXF3dWJxaXl3emplIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA5Mzg0NDcsImV4cCI6MjA1NjUxNDQ0N30.NN5rCppS4WWtn6GR8VKHWOWoMVLFVUJuvw0xRUdKZtQ
