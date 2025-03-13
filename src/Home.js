@@ -1,4 +1,4 @@
-import supabase from "./Config/supabaseClient";
+import supabase from "../Config/supabaseClient";
 
 const Home = () => {
     console.log(supabase)
